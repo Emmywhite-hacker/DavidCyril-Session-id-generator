@@ -57,18 +57,18 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by GREY HAT-👺*
+*_Pair Code Connected by EMMY -MD*
 *_Made With 🚬🗿_*
 ______________________________________
 ╔════◇
-║ *『 AMAZING YOU'VE CHOSEN GREY HAT-👺 』*
+║ *『 AMAZING YOU'VE CHOSEN EMMY-MD』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _https://www.youtube.com/@OmodaratanEmmanuel-n3k
 ║❒ *Owner:* https://wa.me/2347078312023
-║❒ *Repo:* _https://github.com/Emmywhite-hacker/GREY-HAT-
+║❒ *Repo:* _https://github.com/Emmywhite-hacker/EMMY-MD-
 ║❒ *WaGroup:* _https://chat.whatsapp.com/FTGox4a1u0N0ECsG7TfQhz
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vb6IGga7DAWse51nLk2U
 ║❒ *Plugins:* _https://github.com/Emmywhite-hacker 
